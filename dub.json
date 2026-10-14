@@ -8,9 +8,11 @@
 	"name": "dsl",
     "targetType": "none",
     "subPackages": [
-        "libseat"
+        "libseat",
+		"pixman"
     ],
     "dependencies": {
-        ":libseat": "*"
+        ":libseat": "*",
+		":pixman": "*"
     }
 }
