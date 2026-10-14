@@ -7,6 +7,9 @@
 	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
 	"name": "libseat",
 	"dependencies": {
-		"dsl-libseat": "~master"
+		"dsl-libseat": {
+			"repository": "git+https://github.com/DSysLibs/libseat.git",
+			"version": ">=1.0.0"
+		}
 	}
 }
