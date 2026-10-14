@@ -7,6 +7,6 @@
 	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
 	"name": "libseat",
 	"dependencies": {
-		"dsl-libseat": "~master"
+		":libseat": "~master"
 	}
 }
