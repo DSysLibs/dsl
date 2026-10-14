@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dsl
+dsl.so
+dsl.dylib
+dsl.dll
+libdsl.a
+dsl.a
+dsl.lib
+dsl-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

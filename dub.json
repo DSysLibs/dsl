@@ -1,0 +1,16 @@
+{
+	"description": "DSysLibs main repository",
+	"license": "Unlicense",
+	"authors": [
+		"Roman Vlasov aka Doctor"
+	],
+	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
+	"name": "dsl",
+    "targetType": "none",
+    "subPackages": [
+        "libseat"
+    ],
+    "dependencies": {
+        ":libseat": "*"
+    }
+}
