@@ -6,6 +6,7 @@
 	],
 	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
 	"name": "libseat",
-	"importPaths": ["dsl/"],
-	"targetName": "seat"
+	"dependencies": {
+		"dsl-libseat": "~master"
+	}
 }
