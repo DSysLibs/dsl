@@ -7,9 +7,6 @@
 	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
 	"name": "pixman",
 	"dependencies": {
-		"dsl-pixman": {
-			"repository": "git+https://github.com/DSysLibs/pixman.git",
-			"version": ">=1.0.0"
-		}
+		"dsl-pixman": "*"
 	}
 }
